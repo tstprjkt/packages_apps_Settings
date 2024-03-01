@@ -44,6 +44,14 @@
         settings:searchable="false"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.FirmwareVersionDetailPreferenceController"/>
 
+
+    <!-- Maintainer/s name/s -->
+    <Preference
+        android:key="aicp_maintainer"
+        android:title="@string/aicp_maintainer_title"
+        android:summary="@string/aicp_maintainer_summary"
+        settings:enableCopying="true"/>
+
     <!-- Security patch -->
     <Preference
         android:key="security_key"
