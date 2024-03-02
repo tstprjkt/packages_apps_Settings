@@ -14550,8 +14550,8 @@
     <string name="bt_le_audio_qr_code_is_not_valid_format">QR code isn\u0027t a valid format</string>
 
 <!-- Maintainer -->
-    <string name="protonplus_maintainer">Device Maintainer</string>
-    <string name="protonplus_maintainer_title">@string/protonplus_maintainer</string>
-    <string name="protonplus_maintainer_summary">scaledzdn.</string>
+    <string name="aicp_maintainer">Maintainer Name</string>
+    <string name="aicp_maintainer_title">@string/aicp_maintainer</string>
+    <string name="aicp_maintainer_summary">scaledzdn.</string>
 
 </resources>
